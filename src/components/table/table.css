@@ -1,0 +1,31 @@
+.table{
+    margin: 20px 0;
+  }
+
+.table-head{
+  margin: 10px;
+}
+  
+tr{
+  text-align: left;
+}
+  
+td{
+  padding-top: 10px;
+}
+  
+.unit{
+  text-align: center;
+}
+  
+.price{
+  text-align: right;
+}
+  
+.input-unit{
+  width: 30px;
+}
+  
+.input-price{
+  width: 60px;
+}
